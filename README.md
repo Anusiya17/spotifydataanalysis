@@ -1,14 +1,11 @@
 # 🎵 Spotify Music Analysis Dashboard 🎶  
 
-This repository showcases a **Spotify Music Analysis Dashboard**, created exclusively using **Power BI** 📊, to analyze and visualize Spotify's most-streamed songs. The dashboard provides interactive insights into song popularity, danceability, energy, and other key attributes, offering a deep dive into global music trends 🌍.  
+This repository showcases a **Spotify Music Analysis Dashboard**, created exclusively using **Power BI** 📊, to analyze and visualize Spotify's most popularity songs. The dashboard provides interactive insights into song popularity, danceability, energy, and other key attributes, offering a deep dive into global music trends 🌍.  
 
 ---
 
 ## 📋 Dashboard Overview  
-
-![Spotify Music Analysis Dashboard](Spotify%20dashboard.png)  
-
-The dashboard includes:  
+The dashboard includes: 
 - 🎛️ Interactive filters for **Year** and **Artist Name**.  
 - 📈 Visualizations to analyze song attributes, artist trends, and language distribution.  
 - 🖥️ A user-friendly interface for quick insights.  
