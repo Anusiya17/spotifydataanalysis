@@ -21,7 +21,7 @@ The dashboard includes:
    - Displays the popularity score of selected tracks.  
 
 2. **Danceability, Valence, and Energy** 💃🕺⚡  
-   - Gauges showing metrics like danceability, mood, and intensity.  
+   - Gauges showing metrics like danceability, energy and valence.  
 
 3. **Max Popularity by Year** 📅  
    - A line chart of popularity trends over time.  
@@ -33,7 +33,7 @@ The dashboard includes:
    - Visualizes track popularity by name.  
 
 6. **Language Distribution** 🌐  
-   - Pie chart showing the popularity of languages.  
+   - Dount chart showing the popularity of languages.  
 
 7. **Top Artists** 🏆  
    - Bar chart showcasing the top 5 artists by popularity.  
