@@ -5,7 +5,6 @@ This repository showcases a **Spotify Music Analysis Dashboard**, created exclus
 ---
 
 ## Dashboard Preview 🖼️
-![Spotify Music Analysis Dashboard](Spotify%20dashboard.png)
 
 
 ---
