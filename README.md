@@ -4,7 +4,6 @@ This repository showcases a **Spotify Music Analysis Dashboard**, created exclus
 
 ---
 ## 📋 Dashboard Overview
-
 The dashboard includes: 
 - 🎛️ Interactive filters for **Year** and **Artist Name**.  
 - 📈 Visualizations to analyze song attributes, artist trends, and language distribution.  
